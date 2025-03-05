@@ -44,13 +44,13 @@ A lightweight state management library with an observer pattern. Designed for Re
 You can install it using npm:
 
 ```sh
-npm install @your-username/state-manager
+npm install @mr_dramm/state-manager
 ```
 
 or with yarn:
 
 ```sh
-yarn add @your-username/state-manager
+yarn add @mr_dramm/state-manager
 ```
 
 ## 📖 Usage
@@ -58,7 +58,7 @@ yarn add @your-username/state-manager
 ### Creating a State Manager
 
 ```ts
-import { StateManager } from "@your-username/state-manager";
+import { StateManager } from "@mr_dramm/state-manager";
 
 type State = {
   count: number;
